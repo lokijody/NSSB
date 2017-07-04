@@ -5,4 +5,4 @@ Multiple Branches of network & computer security
   This hub is designed to help people design and build a complete network from front to back using the "Defense in Depth" 
   principals.
 ### Scripting
-  A collection of scripts from multiple sources used for recon and pentesting
+  A collection of scripts from multiple sources used for recons,audits,pentests and other multi purposes
